@@ -1,6 +1,6 @@
 class AlarmModel {
   final int id;
-  DateTime time;
+  DateTime time; // give date and time
   final String tone;
   bool isActive;
 
